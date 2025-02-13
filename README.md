@@ -44,8 +44,8 @@ pip install numpy pygame
 **Run the simulation by executing:**
 python fluid_simulation.py
 
-**Acknowledgments**
+### Acknowledgments
 
 I would like to extend my sincere thanks to my mathematician friend for their invaluable help in understanding the mathematical foundations behind fluid dynamics and the Navier–Stokes equations. 
-Their insights played a significant role in making this project possible.
+Their insights played a significant role in making this project possible. I wouldnt be able to follow and figure out the equations if it werent him. He helped me lots of amounts over these past three months with these projects and even contributed while i was dealing with my finals.
 
