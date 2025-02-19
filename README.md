@@ -1,6 +1,7 @@
 # Interactive Fluid Simulation
 
 This project is an interactive fluid simulation implemented in Python. The simulation uses a grid-based approach inspired by Jos Stam’s "Stable Fluids" algorithm to model the motion of fluids in a two-dimensional space.
+I cannot get credit for this project hence i followed a youtube tutorial to make it.
 
 ## Features
 
@@ -47,5 +48,5 @@ python fluid_simulation.py
 ### Acknowledgments
 
 I would like to extend my sincere thanks to my mathematician friend for their invaluable help in understanding the mathematical foundations behind fluid dynamics and the Navier–Stokes equations. 
-Their insights played a significant role in making this project possible. I wouldnt be able to follow and figure out the equations if it werent him. He helped me lots of amounts over these past three months with these projects and even contributed while i was dealing with my finals.
+Their insights played a significant role in understanding the project. I wouldnt be able to follow and figure out the equations if it werent him. He helped me lots of amounts over these past three months with these projects and even contributed while i was dealing with my finals.
 
